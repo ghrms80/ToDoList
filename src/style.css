@@ -1,0 +1,22 @@
+body {
+  background-color: Teal;
+}
+
+.js-toDoForm {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+input {
+  font-size: 30px;
+}
+
+.js-toDoList {
+  margin-left: 50px;
+  color: white;
+  font-size: 26px;
+}
+
+.strike {
+  text-decoration: line-through;
+}
